@@ -1,6 +1,6 @@
 # Live Radio Player
 
-![Live Radio Player](assets/logo.png)
+![Ceylon Live Radio Player](assets/logo.png)
 
 ## Table of Contents
 
