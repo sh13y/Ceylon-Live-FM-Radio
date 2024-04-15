@@ -1,6 +1,6 @@
-# Ceylon Live FM Radio
-
-![Ceylon Live FM Radio](assets/logo.png)
+<p align="center">
+  <img src="assets/logo.png" />
+</p>
 
 ## Table of Contents
 
