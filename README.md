@@ -1,4 +1,4 @@
-# Live Radio Player
+# Ceylon Live Radio Player
 
 ![Ceylon Live Radio Player](assets/logo.png)
 
