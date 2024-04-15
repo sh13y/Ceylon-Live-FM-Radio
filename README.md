@@ -1,6 +1,6 @@
-# Ceylon Live Radio Player
+# Ceylon Live FM Radio
 
-![Ceylon Live Radio Player](assets/logo.png)
+![Ceylon Live FM Radio](assets/logo.png)
 
 ## Table of Contents
 
