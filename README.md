@@ -2,32 +2,27 @@
   <img src="assets/logo.png" />
 </p>
 
-## Table of Contents
+Welcome to Ceylon Live Radio, a simple website for streaming live FM radio stations from Sri Lanka!
 
-- [Description](#description)
-- [Features](#features)
-- [Demo](#demo)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Credits](#credits)
-- [License](#license)
+## Overview
 
-## Description
-
-The Live Radio Player is a web application that allows users to listen to a variety of radio channels online. With an intuitive user interface and easy navigation, users can effortlessly browse through different radio stations and start listening to their favorite shows and music.
+Ceylon Live Radio provides an easy-to-use platform for listening to your favorite FM radio stations from Sri Lanka. With a minimalist web UI, it's designed for simplicity and convenience.
 
 ## Features
 
-- **Wide Selection:** Choose from a diverse range of radio channels covering various genres such as music, news, talk shows, and more.
-- **Responsive Design:** The application is optimized for various devices, ensuring a seamless listening experience on desktops, tablets, and smartphones.
-- **Easy Navigation:** The user interface is designed to be intuitive and user-friendly, making it easy for users to find and select their preferred radio stations.
-- **Customizable Controls:** Users can adjust the volume, pause/play the audio stream, and mute/unmute the sound with convenient controls.
-- **Instant Playback:** Start listening to your favorite radio stations instantly without any hassle.
+- Stream live FM radio channels from Sri Lanka.
+- Minimalist web UI for easy navigation.
+- Easy-to-use interface, suitable for all users.
 
 ## Demo
 
-[Link to Live Demo](https://radio.ceylon.eu.org)
+You can find a live demo of SriLankan FM Radio Channels [here](https://radio.ceyon.eu.org).
+
+## How to Use
+
+1. Simply visit the website.
+2. Browse through the list of available FM radio channels.
+3. Click on a station to start streaming.
 
 ## Installation
 
@@ -36,7 +31,7 @@ To run the Live Radio Player locally on your machine, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/Ceylon-Live-FM-Radio.git
+    git clone https://github.com/sh-y-zu/Ceylon-Live-FM-Radio.git
     ```
 
 2. Navigate to the project directory:
@@ -47,15 +42,9 @@ To run the Live Radio Player locally on your machine, follow these steps:
 
 3. Open the `index.html` file in your web browser.
 
-## Usage
-
-1. Select a radio channel by clicking on the corresponding button.
-2. Use the playback controls to pause/play the audio stream and adjust the volume.
-3. Enjoy listening to your favorite radio stations!
-
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
+Contributions are welcome! If you have any ideas for improvement or want to add new features, feel free to submit a pull request.
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature/your-feature`).
@@ -64,10 +53,17 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 5. Push to the branch (`git push origin feature/your-feature`).
 6. Create a new Pull Request.
 
-## Credits
-
-- [Your Name](https://github.com/sh-y-zu) - Creator and maintainer of the Live Radio Player.
-
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [WTFPL License](LICENSE).
+
+## Support
+
+If you encounter any issues or have any questions, please contact us at support@srlankanfm.com.
+
+## Credits
+
+- [shiey](https://github.com/sh-y-zu) - Creator and maintainer of the Live Radio Player.
+
+Enjoy listening to SriLankan FM Radio Channels! 🎶🌴
+
