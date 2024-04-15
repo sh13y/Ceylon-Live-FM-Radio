@@ -1,0 +1,125 @@
+.background-blur {
+    background-image: url('/assets/background.png'); /* Replace 'background.jpg' with the path to your background photo */
+    background-size: cover; /* Cover the entire container */
+    background-position: center; /* Center the background photo */
+    width: 100%; /* Ensure the container covers the entire viewport width */
+    height: 100vh; /* Ensure the container covers the entire viewport height */
+    position: fixed; /* Position the background image behind other content */
+    z-index: -1; /* Ensure the background image is behind other content */
+    filter: blur(8px); /* Apply a blur effect to the background photo */
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+.player {
+    text-align: center;
+}
+
+.pause-btn {
+    background-color: #00000067; /* color for play button */
+  }
+  
+.pause-btn.paused {
+    background-color: #ff26006b; /* color on hover */
+  }
+
+input[type="range"] {
+    width: 200px; /* Adjust the width as needed */
+}
+
+.volume-icon {
+    position: relative;
+    top: 7px; /* Adjust the vertical alignment as needed */
+} 
+.pause-btn {
+    position: relative;
+    top: -3px; /* Adjust the vertical alignment as needed */
+} 
+.mute-btn {
+    position: relative;
+    top: -3px; /* Adjust the vertical alignment as needed */
+}
+
+button {
+    padding: 5px 5px; /* Add padding to the button */
+    font-size: 16px; /* Set font size */
+    border: none; /* Remove border */
+    border-radius: 5px; /* Add border radius for rounded corners */
+    background-color: #00000067; /* Set background color */
+    color: white; /* Set text color */
+    cursor: pointer; /* Add pointer cursor on hover */
+    margin-bottom: 5px;
+    transition: background-color 0.3s ease; /* Smooth transition for background color change */
+}
+
+button:hover {
+    background-color: #ffe60062; /* Darker background color on hover */
+}
+
+.loading-animation {
+    position: absolute;
+    bottom: 12%; /* Adjust the vertical position */
+    left: 50%; /* Center the loading animation horizontally */
+    transform: translate(-50%, 50%); /* Center the loading animation both horizontally and vertically */
+    width: 50px; /* Set width of the loading animation */
+    height: 50px; /* Set height of the loading animation */
+    background-color: transparent; /* Set background color of the loading animation */
+    border: 5px solid #f3f3f3; /* Set border of the loading animation */
+    border-top: 5px solid #2e303086; /* Set top border color for animation effect */
+    border-radius: 50%; /* Make the loading animation round */
+    animation: spin 1s linear infinite; /* Apply rotation animation */
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); } /* Start rotation from 0 degrees */
+    100% { transform: rotate(360deg); } /* End rotation at 360 degrees */
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    color: #ffffff77; /* Change text color */
+    
+}
+
+.current-channel {
+    text-align: center; /* Center align the text */
+    margin-top: 60px; /* Add some top margin for spacing */
+    font-size: 100px; /* Increases font size for better visibility */
+    color: #00000063; /* Change text color */
+    font-family: Arial, sans-serif; /* Specify font family */
+    font-weight: bold; /* Makes the text bold */
+    -webkit-text-stroke: 1px rgb(255, 255, 255); /* Add 1 pixel black border around each letter for webkit browsers */
+    text-stroke: 1px rgb(255, 255, 255); /* Add 1 pixel black border around each letter */
+    
+}
+
+h2 {
+    text-align: center; /* Center align the text */
+    margin-top: 10px; /* Add some top margin for spacing */
+    font-size: 50px; /* Increases font size for better visibility */
+    color: #00c3ffc4; /* Change text color */
+    font-family: Arial, sans-serif; /* Specify font family */
+    font-weight: bold; /* Makes the text bold */
+    -webkit-text-stroke: 1px rgb(0, 0, 0); /* Add 1 pixel black border around each letter for webkit browsers */
+    text-stroke: 1px rgb(255, 255, 255); /* Add 1 pixel black border around each letter */
+    
+}
+
+.ch-logo {
+    width: 100px;
+    height: 100px;
+}
+
+
+
+
+
+
+
