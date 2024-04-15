@@ -36,13 +36,13 @@ To run the Live Radio Player locally on your machine, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/live-radio-player.git
+    git clone https://github.com/your-username/Ceylon-Live-FM-Radio.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd live-radio-player
+    cd Ceylon-Live-FM-Radio
     ```
 
 3. Open the `index.html` file in your web browser.
