@@ -80,8 +80,8 @@ button:hover {
 footer {
     text-align: center;
     padding: 20px;
-    position: fixed;
-    bottom: 0;
+    position: ;
+    bottom: 10px;
     left: 0;
     width: 100%;
     color: #ffffff77; /* Change text color */
@@ -113,9 +113,15 @@ h2 {
 }
 
 .ch-logo {
-    width: 100px;
-    height: 100px;
+    width: 60px;
+    height: 60px;
 }
+
+.logo{
+    width: 20%;
+    
+}
+
 
 
 
