@@ -80,35 +80,22 @@ button:hover {
 footer {
     text-align: center;
     padding: 20px;
-    position: ;
+    position: fixed;
     bottom: 10px;
     left: 0;
     width: 100%;
-    color: #ffffff77; /* Change text color */
+    color: #ffffff48; /* Change text color */
     
 }
 
 .current-channel {
     text-align: center; /* Center align the text */
-    margin-top: 60px; /* Add some top margin for spacing */
-    font-size: 100px; /* Increases font size for better visibility */
-    color: #00000063; /* Change text color */
+    margin-top: 20px; /* Add some top margin for spacing */
+    font-size: 30px; /* Increases font size for better visibility */
+    color: #ffffff63; /* Change text color */
     font-family: Arial, sans-serif; /* Specify font family */
     font-weight: bold; /* Makes the text bold */
-    -webkit-text-stroke: 1px rgb(255, 255, 255); /* Add 1 pixel black border around each letter for webkit browsers */
-    text-stroke: 1px rgb(255, 255, 255); /* Add 1 pixel black border around each letter */
-    
-}
-
-h2 {
-    text-align: center; /* Center align the text */
-    margin-top: 10px; /* Add some top margin for spacing */
-    font-size: 50px; /* Increases font size for better visibility */
-    color: #00c3ffc4; /* Change text color */
-    font-family: Arial, sans-serif; /* Specify font family */
-    font-weight: bold; /* Makes the text bold */
-    -webkit-text-stroke: 1px rgb(0, 0, 0); /* Add 1 pixel black border around each letter for webkit browsers */
-    text-stroke: 1px rgb(255, 255, 255); /* Add 1 pixel black border around each letter */
+   
     
 }
 
