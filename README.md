@@ -1,7 +1,7 @@
 <p align="center">
   <img src="assets/logo.png" />
 </p>
-
+<a href="https://sh-y-zu.github.io/Ceylon-Live-FM-Radio/"><strong>➥ Live Demo</strong></a>
 Welcome to Ceylon Live Radio, a simple website for streaming live FM radio stations from Sri Lanka!
 
 ## Overview
@@ -15,10 +15,6 @@ Ceylon Live Radio provides an easy-to-use platform for listening to your favorit
 - Easy-to-use interface, suitable for all users.
 
 (Because I don't have enough knowledge to do anything more than this 😂)
-
-## Demo
-
-You can find a live demo of SriLankan FM Radio Channels [here](https://radio.ceyon.eu.org).
 
 ## How to Use
 
