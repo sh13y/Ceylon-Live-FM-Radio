@@ -1,7 +1,11 @@
 <p align="center">
   <img src="assets/logo.png" />
 </p>
+<div align="center">
 <a href="https://sh-y-zu.github.io/Ceylon-Live-FM-Radio/"><strong>➥ Live Demo</strong></a>
+</div>
+<br />
+<br />
 Welcome to Ceylon Live Radio, a simple website for streaming live FM radio stations from Sri Lanka!
 
 ## Overview
