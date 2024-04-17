@@ -14,6 +14,8 @@ Ceylon Live Radio provides an easy-to-use platform for listening to your favorit
 - Minimalist web UI for easy navigation.
 - Easy-to-use interface, suitable for all users.
 
+(Because I don't have enough knowledge to do anything more than this 😂)
+
 ## Demo
 
 You can find a live demo of SriLankan FM Radio Channels [here](https://radio.ceyon.eu.org).
@@ -57,13 +59,10 @@ Contributions are welcome! If you have any ideas for improvement or want to add 
 
 This project is licensed under the [WTFPL License](LICENSE).
 
-## Support
-
-If you encounter any issues or have any questions, please contact us at support@srlankanfm.com.
 
 ## Credits
 
-- [shiey](https://github.com/sh-y-zu) - Creator and maintainer of the Live Radio Player.
+- [Me](https://github.com/sh-y-zu) - Creator and maintainer of the Live Radio Player.
 
 Enjoy listening to SriLankan FM Radio Channels! 🎶🌴
 
