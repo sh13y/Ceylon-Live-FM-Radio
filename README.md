@@ -28,7 +28,7 @@ Ceylon FM Radio provides an easy-to-use platform for listening to your favorite 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the WTFPL license. See the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
