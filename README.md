@@ -2,7 +2,7 @@
   <img src="assets/logo.png" />
 </p>
 <div align="center">
-<a href="https://sh13y.github.io/Ceylon-Live-FM-Radio/"><strong>➥ Live Demo</strong></a>
+<a href="https://ceylonlivefmradio.pages.dev/"><strong>➥ Live Demo</strong></a>
 </div>
 <br />
 <br />
